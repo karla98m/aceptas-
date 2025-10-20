@@ -95,3 +95,10 @@ body {
   -webkit-user-select: none;
   user-select: none;
 }
+
+@media (max-width: 600px) {
+  .clase-ejemplo {
+    width: 100%;
+    /* Otros estilos específicos para móviles */
+  }
+}
