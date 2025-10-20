@@ -97,8 +97,9 @@ body {
 }
 
 @media (max-width: 600px) {
-  .clase-ejemplo {
+  body {
     width: 100%;
+    height: 100vh;
     /* Otros estilos específicos para móviles */
   }
 }
