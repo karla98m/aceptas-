@@ -25,7 +25,7 @@ body {
   height: 32em;
   /*background-color: #f5f5f5;*/
   background-image: url("fondo2.jpeg");
-  background-size: 23em 32em;;
+  background-size: 23em 32em;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
