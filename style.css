@@ -21,11 +21,11 @@ body {
 
 }
 .container {
-  width: 21em;
+  width: 20em;
   height: 32em;
   /*background-color: #f5f5f5;*/
   background-image: url("fondo2.jpeg");
-  background-size: 21em 32em;
+  background-size: 20em 32em;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
@@ -35,7 +35,7 @@ body {
 
 
 .container2 {
-  width: 23em;
+  width: 20em;
   height: 5em;
   position: absolute;
   transform: translate(-50%, -50%);
