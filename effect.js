@@ -11,7 +11,7 @@ const init = () => {
   const image = new Image();
   image.src = "gana.png";
   image.onload = () => {
-     context.drawImage(image, 10, 10, 170, 170)
+     context.drawImage(image, 25, 10, 150, 150)
   }
 
 };
