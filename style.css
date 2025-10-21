@@ -16,16 +16,16 @@ body {
   align-items: center;
   justify-content: center;
   font-style: italic;
-  margin: 80px 100px 105px 100px;
+  margin: 80px 80px 105px 80px;
   text-align: center;
 
 }
 .container {
   width: 20em;
-  height: 32em;
+  height: 29em;
   /*background-color: #f5f5f5;*/
   background-image: url("fondo2.jpeg");
-  background-size: 20em 32em;
+  background-size: 20em 29em;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
